@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a devops class at 8:30am
+=======
+This is a devops class
+>>>>>>> fb56bd6b83d73e3018846474c269a00d43f46fb3
